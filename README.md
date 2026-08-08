@@ -117,7 +117,7 @@ This project is licensed under the **MIT License**.
 
 ## 👩‍💻 Author
 
-**Richa**
+**Richa Mathur**
 
 Aspiring Data Analyst | Python | Data Visualization | Business Insights
 
